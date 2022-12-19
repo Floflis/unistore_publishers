@@ -1,0 +1,15 @@
+{
+	"name": "Armaldio",
+	"description": "",
+	"avatar": "https://avatars.githubusercontent.com/u/3089715?v=4",
+	"cover": "",
+	"website": "https://armaldio.xyz/",
+	"publications": [{
+		"constructaddon": {
+			"id": "gamepad_haptics"
+		}
+	}],
+	"profilecreatedby": [{
+		"ens": "danimesq.eth"
+	}]
+}
